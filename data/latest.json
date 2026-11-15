@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T13:28:57Z",
-  "expires_at": "2026-11-15T15:27:58Z",
+  "generated_at": "2026-11-15T13:56:52Z",
+  "expires_at": "2026-11-15T15:55:20Z",
   "currency": "USD",
   "source": {
     "name": "CoinGecko",
@@ -13,27 +13,27 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price_usd": 65628.0,
-      "change_24h_pct": -1.5580303977815688,
-      "source_updated_at": "2026-11-15T13:27:58Z",
+      "price_usd": 65468.0,
+      "change_24h_pct": -1.9477430101606112,
+      "source_updated_at": "2026-11-15T13:55:36Z",
       "alert": null
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price_usd": 1835.49,
-      "change_24h_pct": -2.746926773541536,
-      "source_updated_at": "2026-11-15T13:28:11Z",
+      "price_usd": 1834.52,
+      "change_24h_pct": -2.995195244781287,
+      "source_updated_at": "2026-11-15T13:55:20Z",
       "alert": null
     },
     {
       "id": "the-open-network",
       "symbol": "TON",
       "name": "Toncoin",
-      "price_usd": 1.052,
-      "change_24h_pct": -3.1165758624427453,
-      "source_updated_at": "2026-11-15T13:27:58Z",
+      "price_usd": 1.05,
+      "change_24h_pct": -3.281562033344395,
+      "source_updated_at": "2026-11-15T13:55:20Z",
       "alert": null
     }
   ],
